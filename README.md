@@ -1,8 +1,8 @@
 <div align="center">
 
-# Claude Code — Leaked Source
+# Claude Code —
 
-**The full source code of Anthropic's Claude Code CLI, leaked on March 31, 2026**
+**The full source code of Anthropic's Claude Code CLI, March 31, 2026**
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-512K%2B_lines-3178C6?logo=typescript&logoColor=white)](#tech-stack)
 [![Bun](https://img.shields.io/badge/Runtime-Bun-f472b6?logo=bun&logoColor=white)](#tech-stack)
@@ -12,7 +12,7 @@
 [![npm](https://img.shields.io/npm/v/warrioraashuu-codemaster?label=npm&color=cb3837&logo=npm)](https://www.npmjs.com/package/warrioraashuu-codemaster)
 [![Twitter Follow](https://img.shields.io/twitter/follow/warrioraashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrioraashuu)
 
-> The original unmodified leaked source is preserved in the [`backup` branch](https://github.com/codeaashu/claude-code/tree/backup).
+> The original unmodified source is preserved in the [`backup` branch](https://github.com/codeaashu/claude-code/tree/backup).
 
 </div>
 
@@ -38,7 +38,7 @@
 
 ## Table of Contents
 
-- [How It Leaked](#how-it-leaked)
+- [How It ](#how-it-)
 - [What Is Claude Code?](#what-is-claude-code)
 - [Documentation](#-documentation)
 - [Explore with MCP Server](#-explore-with-mcp-server)
@@ -59,11 +59,11 @@
 
 ---
 
-## How It Leaked
+## How It 
 
 [Chaofan Shou (@Fried_rice)](https://x.com/Fried_rice) discovered that the published npm package for Claude Code included a `.map` file referencing the full, unobfuscated TypeScript source — downloadable as a zip from Anthropic's R2 storage bucket.
 
-> **"Claude code source code has been leaked via a map file in their npm registry!"**
+> **"Claude code source code has been  via a map file in their npm registry!"**
 >
 > — [@Fried_rice, March 31, 2026](https://x.com/Fried_rice/status/2038894956459290963)
 
@@ -71,11 +71,11 @@
 
 ## What Is Claude Code?
 
-Claude Code is Anthropic's official CLI tool for interacting with Claude directly from the terminal — editing files, running commands, searching codebases, managing git workflows, and more. This repository contains the leaked `src/` directory.
+Claude Code is Anthropic's official CLI tool for interacting with Claude directly from the terminal — editing files, running commands, searching codebases, managing git workflows, and more. This repository contains the  `src/` directory.
 
 | | |
 |---|---|
-| **Leaked** | 2026-03-31 |
+| **** | 2026-03-31 |
 | **Language** | TypeScript (strict) |
 | **Runtime** | [Bun](https://bun.sh) |
 | **Terminal UI** | [React](https://react.dev) + [Ink](https://github.com/vadimdemedes/ink) |
@@ -455,13 +455,13 @@ git push origin main
 
 Contributions to documentation, the MCP server, and exploration tooling are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-> **Note:** The `src/` directory is the original leaked source and should not be modified.
+> **Note:** The `src/` directory is the original  source and should not be modified.
 
 ---
 
 ## Disclaimer
 
-This repository archives source code leaked from Anthropic's npm registry on **2026-03-31**. All original source code is the property of [Anthropic](https://www.anthropic.com). This is not an official release and is not licensed for redistribution. Contact [aashuu ✦](https://x.com/warrioraashuu) for any comments.
+This repository archives source code  from Anthropic's npm registry on **2026-03-31**. All original source code is the property of [Anthropic](https://www.anthropic.com). This is not an official release and is not licensed for redistribution. Contact [aashuu ✦](https://x.com/warrioraashuu) for any comments.
 
 ---
 
